@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "CategoryName": "CLASSIC",
+    "categoryUrl": "classic"
+  },
+  {
+    "id": 2,
+    "CategoryName": "BUSINESS CARD",
+    "categoryUrl": "business-card"
+  },
+  {
+    "id": 3,
+    "CategoryName": "STANDARD",
+    "categoryUrl": "standard"
+  },
+  {
+    "id": 4,
+    "CategoryName": "BUSINESS",
+    "categoryUrl": "business"
+  },
+  {
+    "id": 5,
+    "CategoryName": "PLATINUM",
+    "categoryUrl": "platinum"
+  },
+  {
+    "id": 6,
+    "CategoryName": "PREMIER",
+    "categoryUrl": "premier"
+  },
+  {
+    "id": 7,
+    "CategoryName": "PREPAID",
+    "categoryUrl": "prepaid"
+  },
+  {
+    "id": 8,
+    "CategoryName": "ELECTRON",
+    "categoryUrl": "electron"
+  },
+  {
+    "id": 9,
+    "CategoryName": "GOLD",
+    "categoryUrl": "gold"
+  },
+  {
+    "id": 10,
+    "CategoryName": "DANKORT",
+    "categoryUrl": "dankort"
+  },
+  {
+    "id": 11,
+    "CategoryName": "GOLD PREMIUM",
+    "categoryUrl": "gold-premium"
+  },
+  {
+    "id": 12,
+    "CategoryName": "REWARDS CARD",
+    "categoryUrl": "rewards-card"
+  },
+  {
+    "id": 13,
+    "CategoryName": "PREMIUM CARD",
+    "categoryUrl": "premium-card"
+  },
+  {
+    "id": 14,
+    "CategoryName": "CORE CARD",
+    "categoryUrl": "core-card"
+  },
+  {
+    "id": 15,
+    "CategoryName": "EXECUTIVE BUSINESS",
+    "categoryUrl": "executive-business"
+  },
+  {
+    "id": 16,
+    "CategoryName": "PURCHASING",
+    "categoryUrl": "purchasing"
+  },
+  {
+    "id": 17,
+    "CategoryName": "PREMIUM PLUS",
+    "categoryUrl": "premium-plus"
+  },
+  {
+    "id": 18,
+    "CategoryName": "CORPORATE T&E",
+    "categoryUrl": "corporate-t&e"
+  },
+  {
+    "id": 19,
+    "CategoryName": "CORPORATE",
+    "categoryUrl": "corporate"
+  },
+  {
+    "id": 20,
+    "CategoryName": "ATM ONLY",
+    "categoryUrl": "atm-only"
+  },
+  {
+    "id": 21,
+    "CategoryName": "INFINITE",
+    "categoryUrl": "infinite"
+  },
+  {
+    "id": 22,
+    "CategoryName": "GREEN",
+    "categoryUrl": "green"
+  },
+  {
+    "id": 23,
+    "CategoryName": "WORLD CARD",
+    "categoryUrl": "world-card"
+  },
+  {
+    "id": 24,
+    "CategoryName": "SIGNATURE",
+    "categoryUrl": "signature"
+  },
+  {
+    "id": 25,
+    "CategoryName": "GIFT",
+    "categoryUrl": "gift"
+  },
+  {
+    "id": 26,
+    "CategoryName": "SMALL CORPORATE",
+    "categoryUrl": "small-corporate"
+  },
+  {
+    "id": 27,
+    "CategoryName": "CORPORATE PURCHASING",
+    "categoryUrl": "corporate-purchasing"
+  },
+  {
+    "id": 28,
+    "CategoryName": "OTHER",
+    "categoryUrl": "other"
+  },
+  {
+    "id": 29,
+    "CategoryName": "CHECK CARD",
+    "categoryUrl": "check-card"
+  },
+  {
+    "id": 30,
+    "CategoryName": "BLACK",
+    "categoryUrl": "black"
+  },
+  {
+    "id": 31,
+    "CategoryName": "BLUE AIRMILES CASH BACK CARD",
+    "categoryUrl": "blue-airmiles-cash-back-card"
+  },
+  {
+    "id": 32,
+    "CategoryName": "CORPORATE T",
+    "categoryUrl": "corporate-t"
+  },
+  {
+    "id": 33,
+    "CategoryName": "CORPORATE FLEET CARD",
+    "categoryUrl": "corporate-fleet-card"
+  },
+  {
+    "id": 34,
+    "CategoryName": "CONSUMER CARD",
+    "categoryUrl": "consumer-card"
+  },
+  {
+    "id": 35,
+    "CategoryName": "OPTIMA",
+    "categoryUrl": "optima"
+  },
+  {
+    "id": 36,
+    "CategoryName": "CENTURION",
+    "categoryUrl": "centurion"
+  },
+  {
+    "id": 37,
+    "CategoryName": "LOWES CARD",
+    "categoryUrl": "lowes-card"
+  },
+  {
+    "id": 38,
+    "CategoryName": "IKEA CARD",
+    "categoryUrl": "ikea-card"
+  },
+  {
+    "id": 39,
+    "CategoryName": "GOLD CASH BACK CARD",
+    "categoryUrl": "gold-cash-back-card"
+  },
+  {
+    "id": 40,
+    "CategoryName": "ICARD",
+    "categoryUrl": "icard"
+  },
+  {
+    "id": 41,
+    "CategoryName": "PROPRIETARY",
+    "categoryUrl": "proprietary"
+  },
+  {
+    "id": 42,
+    "CategoryName": "SEARS",
+    "categoryUrl": "sears"
+  },
+  {
+    "id": 43,
+    "CategoryName": "NEW WORLD",
+    "categoryUrl": "new-world"
+  },
+  {
+    "id": 44,
+    "CategoryName": "GSA CARD",
+    "categoryUrl": "gsa-card"
+  },
+  {
+    "id": 45,
+    "CategoryName": "PRIVATE LABEL",
+    "categoryUrl": "private-label"
+  },
+  {
+    "id": 46,
+    "CategoryName": "CREDIT",
+    "categoryUrl": "credit"
+  },
+  {
+    "id": 47,
+    "CategoryName": "DEBIT",
+    "categoryUrl": "debit"
+  },
+  {
+    "id": 48,
+    "CategoryName": "CONSUMER PREMIUM CARD",
+    "categoryUrl": "consumer-premium-card"
+  },
+  {
+    "id": 49,
+    "CategoryName": "WORLD ELITE",
+    "categoryUrl": "world-elite"
+  },
+  {
+    "id": 50,
+    "CategoryName": "V PAY",
+    "categoryUrl": "v-pay"
+  }
+]

@@ -1,0 +1,283 @@
+// -- External Components --
+@import '~bootstrap/scss/bootstrap';
+// @import "~@fortawesome/fontawesome-svg-core/styles.css";
+
+// Page Defaults
+body {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+// -- Typography --
+.text-big-muted {
+  @extend .text-muted;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+header {
+  font-weight: 400;
+}
+
+.parallax {
+  min-height: 400px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.paralsec {
+  background-image: url('/cafe-people.jpeg');
+}
+
+.nav-link {
+  font-size: 0.95rem;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  border-radius: 0rem;
+}
+
+#basic-nav-dropdown {
+  font-size: 0.95rem;
+}
+
+#seeMoreLink {
+  color: #607d8b;
+}
+
+#seeMoreLink:hover {
+  color: black;
+  font-weight: 400;
+}
+
+.dropdown-menu {
+  padding: 1em;
+}
+
+.dropdown-item:hover {
+  outline: none;
+  box-shadow: none;
+  background: none;
+}
+
+.dropdown-item a:hover {
+  color: black;
+}
+
+.navbar-collapse.show {
+  margin-top: 5rem;
+}
+
+.dropdown-item {
+  height: 2em;
+  padding-left: 0em;
+}
+
+.dropdown-header {
+  font-weight: 600;
+  padding-left: 0em;
+}
+
+@media only screen and (min-width: 600px) {
+  .eventsNav {
+    width: 22em;
+    padding-bottom: 1em;
+  }
+
+  .dropdown-menu {
+    min-width: 15rem;
+  }
+
+  .dropdown-item {
+    padding-left: 0em !important;
+  }
+}
+
+.dream-box {
+  border-style: inset;
+  margin-bottom: 15px;
+  border: gray;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-style: inherit;
+  padding: 20px;
+  border-radius: 38px;
+  margin-top: 20px;
+}
+
+.dream-box-recommendation {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.search-recent-dreams {
+  font-size: x-large;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 1023px) {
+  .search-recent-dreams {
+    font-size: large;
+    font-weight: 400;
+  }
+}
+
+.author-section {
+  display: flex;
+  align-items: center;
+  background: whitesmoke;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.author-image {
+  flex: 0 0 200px;
+  margin-right: 9px;
+  margin-left: 9px;
+}
+
+.about-author-image {
+  flex: 0 0 500px;
+  margin-right: 9px;
+  margin-left: 9px;
+}
+
+.author-about-me {
+  margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  .author-about-me {
+    margin-bottom: 10px;
+  }
+
+  .author-image {
+    flex: 0 0 100px;
+    margin-top: 10px;
+  }
+
+  .about-author-image {
+    flex: 0 0 100px;
+    margin-right: 9px;
+    margin-left: 9px;
+  }
+}
+
+.author-info {
+  flex: 1;
+  margin: 0 10px 10px 10px;
+}
+
+.author-accolade {
+  align-items: center;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  .author-section {
+    flex-direction: column;
+  }
+}
+
+.sticky-contact {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  padding: 16px;
+  border: none;
+  outline: none;
+  z-index: 1;
+}
+
+@media only screen and (min-width: 768px) {
+  .sticky-contact {
+    display: none;
+  }
+}
+
+.smartBanner {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.1);
+  z-index: 10000;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  margin-right: 5px;
+}
+
+.info {
+  flex: 1;
+  margin-right: 5px;
+}
+
+.heading {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.description {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .smartBanner {
+    display: none;
+  }
+}
+
+.services__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.services__column {
+  flex: 1;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .services__row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .services__column {
+    margin-top: 20px;
+  }
+}
+
+.qualification-section {
+  margin-top: 20px;
+}
+
+.qualification-header {
+  text-align: center;
+  margin: 25px 0px 25px 0px;
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "id": "big-snake/",
+    "submenuName": "Snake"
+  },
+  {
+    "id": "dog-attack",
+    "submenuName": "Dog "
+  },
+  {
+    "id": "cat-attacking",
+    "submenuName": "Cat "
+  },
+  {
+    "id": "fish-water",
+    "submenuName": "Fish"
+  },
+  {
+    "id": "lion-chasing",
+    "submenuName": "Lion"
+  },
+  {
+    "id": "riding-horse",
+    "submenuName": "Horse "
+  },
+  {
+    "id": "big-lizard",
+    "submenuName": "Lizard "
+  },
+  {
+    "id": "tigers",
+    "submenuName": "Tiger"
+  },
+  {
+    "id": "black-goat",
+    "submenuName": "Goat "
+  },
+  {
+    "id": "black-spider",
+    "submenuName": "Spider "
+  },
+  {
+    "id": "killing-person",
+    "submenuName": "Killing"
+  },
+  {
+    "id": "someone-falling",
+    "submenuName": "Falling"
+  },
+  {
+    "id": "swimming-river",
+    "submenuName": "Swimming"
+  },
+  {
+    "id": "running-fear",
+    "submenuName": "Running"
+  },
+  {
+    "id": "heavy-rain",
+    "submenuName": "Rain"
+  },
+  {
+    "id": "ocean-water",
+    "submenuName": "Sea"
+  },
+  {
+    "id": "fearing",
+    "submenuName": "Fearing"
+  },
+  {
+    "id": "fire-home",
+    "submenuName": "Fire"
+  },
+  {
+    "id": "dead-man",
+    "submenuName": "Dead Person"
+  },
+  {
+    "id": "bloody",
+    "submenuName": "Blood"
+  },
+  {
+    "id": "husbands",
+    "submenuName": "Husband"
+  },
+  {
+    "id": "mother-angry",
+    "submenuName": "Mother"
+  },
+  {
+    "id": "father-mother",
+    "submenuName": "Father"
+  },
+  {
+    "id": "holding-child",
+    "submenuName": "Child"
+  },
+
+  {
+    "id": "family-gathering",
+    "submenuName": "Family"
+  },
+
+  {
+    "id": "husband-wife",
+    "submenuName": "Wife"
+  },
+  {
+    "id": "brothers",
+    "submenuName": "Brother"
+  },
+  {
+    "id": "Children",
+    "submenuName": "Children"
+  },
+  {
+    "id": "friendship",
+    "submenuName": "Friend"
+  },
+  {
+    "id": "husband-making-love",
+    "submenuName": "Love"
+  },
+  {
+    "id": "sisters",
+    "submenuName": "Sister"
+  },
+  {
+    "id": "myself-pregnant",
+    "submenuName": "Pregnant"
+  },
+  {
+    "id": "myself-dead",
+    "submenuName": "Death"
+  },
+  {
+    "id": "proposal-marriage",
+    "submenuName": "Marriage"
+  },
+  {
+    "id": "give-birth",
+    "submenuName": "Birth"
+  },
+  {
+    "id": "weddings",
+    "submenuName": "Wedding"
+  },
+
+  {
+    "id": "counting-money",
+    "submenuName": "Money"
+  },
+
+  {
+    "id": "giving-birth-baby-boy",
+    "submenuName": "Baby Boy"
+  },
+  {
+    "id": "giving-birth-baby-girl",
+    "submenuName": "Baby Girl"
+  },
+  {
+    "id": "fights",
+    "submenuName": "Fight"
+  },
+  {
+    "id": "buying-gold",
+    "submenuName": "Gold"
+  },
+  {
+    "id": "gold-ring",
+    "submenuName": "Ring"
+  },
+  {
+    "id": "green-tree",
+    "submenuName": "Tree"
+  },
+  {
+    "id": "looking-mirror",
+    "submenuName": "Mirror"
+  },
+
+  {
+    "id": "lying-bed",
+    "submenuName": "Bed"
+  },
+  {
+    "id": "removing-hair",
+    "submenuName": "Hair"
+  },
+  {
+    "id": "teeth-fall",
+    "submenuName": "Teeth"
+  },
+  {
+    "id": "buying-cloth",
+    "submenuName": "Cloths"
+  },
+  {
+    "id": "colour-red",
+    "submenuName": "Red"
+  },
+  {
+    "id": "color-blue",
+    "submenuName": "Blue"
+  },
+  {
+    "id": "green-color",
+    "submenuName": "Green"
+  },
+  {
+    "id": "color-white",
+    "submenuName": "White"
+  },
+  {
+    "id": "wearing-black",
+    "submenuName": "Black"
+  },
+  {
+    "id": "people-praying",
+    "submenuName": "Praying"
+  },
+  {
+    "id": "praising-allah",
+    "submenuName": "Allah"
+  },
+  {
+    "id": "prophets",
+    "submenuName": "Prophet"
+  },
+  {
+    "id": "Quran",
+    "submenuName": "Quran"
+  },
+  {
+    "id": "praying-salaah",
+    "submenuName": "Salah"
+  },
+  {
+    "id": "performing-salat",
+    "submenuName": "Namaz"
+  },
+  {
+    "id": "praying-masjid",
+    "submenuName": "Mosque"
+  },
+  {
+    "id": "holy-kabah",
+    "submenuName": "Kabah"
+  },
+  {
+    "id": "performing-hajj",
+    "submenuName": "Hajj"
+  },
+  {
+    "id": "performing-umrah",
+    "submenuName": "Umarh"
+  },
+  {
+    "id": "car-accidents",
+    "submenuName": "Car"
+  },
+  {
+    "id": "flight",
+    "submenuName": "Flight"
+  },
+  {
+    "id": "trains",
+    "submenuName": "Train"
+  },
+  {
+    "id": "air-plane",
+    "submenuName": "Air Plane"
+  },
+  {
+    "id": "motor-bike",
+    "submenuName": "Bike"
+  },
+  {
+    "id": "riding-bus",
+    "submenuName": "Bus"
+  },
+  {
+    "id": "traveling-abroad",
+    "submenuName": "Travel"
+  },
+  {
+    "id": "full-moon",
+    "submenuName": "Moon"
+  },
+  {
+    "id": "eating-sweet",
+    "submenuName": "Sweet"
+  },
+  {
+    "id": "making-food",
+    "submenuName": "Food"
+  },
+  {
+    "id": "eating-meat",
+    "submenuName": "Meat"
+  },
+
+  {
+    "id": "eating-fruit",
+    "submenuName": "Fruit"
+  },
+  {
+    "id": "rice-eating",
+    "submenuName": "Rice"
+  },
+  {
+    "id": "sweet-milk",
+    "submenuName": "Milk"
+  },
+  {
+    "id": "sweetbread",
+    "submenuName": "Bread"
+  }
+]

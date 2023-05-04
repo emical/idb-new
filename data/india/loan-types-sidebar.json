@@ -1,0 +1,63 @@
+[
+  {
+    "loanId": "auto-loan",
+    "loanName": "Auto Loan"
+  },
+  {
+    "loanId": "bike-loan",
+    "loanName": "Bike Loan"
+  },
+  {
+    "loanId": "business-loan",
+    "loanName": "Business Loan"
+  },
+  {
+    "loanId": "car-loan",
+    "loanName": "Car Loan"
+  },
+  {
+    "loanId": "credit-card",
+    "loanName": "Credit card Loan"
+  },
+  {
+    "loanId": "education-loan",
+    "loanName": "Education Loan"
+  },
+  {
+    "loanId": "home-loan",
+    "loanName": "Home Loan"
+  },
+  {
+    "loanId": "personal-loan",
+    "loanName": "Personal Loan"
+  },
+  {
+    "loanId": "preowned-car-loan",
+    "loanName": "Pre-Owned car Loan"
+  },
+
+  {
+    "loanId": "second-hand-bike-loan",
+    "loanName": "Second hand bike Loan"
+  },
+  {
+    "loanId": "second-hand-car-loan",
+    "loanName": "Second hand car Loan"
+  },
+  {
+    "loanId": "student-loan",
+    "loanName": "Student Loan"
+  },
+  {
+    "loanId": "two-wheeler-loan",
+    "loanName": "Two wheeler Loan"
+  },
+  {
+    "loanId": "used-bike-loan",
+    "loanName": "Used bike Loan"
+  },
+  {
+    "loanId": "used-car-loan",
+    "loanName": "Used car Loan"
+  }
+]

@@ -1,0 +1,256 @@
+{
+  "contenttype": "loans",
+  "contenturl": "/india/loans/",
+  "menu": {
+    "url": "/emi-calculator/",
+    "menuitems": [
+      {
+        "url": "",
+        "menuId": "/bin-code-search-iin-lookup",
+        "menuName": "BIN Codes",
+        "submenuitems": [
+          {
+            "id": "country/united-states",
+            "submenuName": "US"
+          },
+          {
+            "id": "country/united-kingdom",
+            "submenuName": "UK "
+          },
+          {
+            "id": "country/russia",
+            "submenuName": "Russia "
+          },
+          {
+            "id": "country/canada",
+            "submenuName": "Canada"
+          },
+          {
+            "id": "country/japan",
+            "submenuName": "Japan"
+          },
+          {
+            "id": "country/germany",
+            "submenuName": "Germany "
+          },
+          {
+            "id": "country/india",
+            "submenuName": "India "
+          }
+        ]
+      },
+
+      {
+        "url": "/emi-calculator/",
+        "menuId": "/india/loans/home-loan",
+        "menuName": "Home Loan",
+        "submenuitems": [
+          {
+            "id": "sbi",
+            "submenuName": "SBI"
+          },
+          {
+            "id": "hdfc",
+            "submenuName": "HDFC"
+          },
+          {
+            "id": "icici",
+            "submenuName": "ICICI"
+          },
+          {
+            "id": "axis-bank",
+            "submenuName": "Axis"
+          },
+          {
+            "id": "kotak-bank",
+            "submenuName": "Kotak"
+          },
+          {
+            "id": "yes-bank",
+            "submenuName": "Yes Bank"
+          },
+          {
+            "id": "indusind-bank",
+            "submenuName": "IndusInd"
+          }
+        ]
+      },
+      {
+        "url": "/emi-calculator/",
+        "menuId": "/india/loans/personal-loan",
+        "menuName": "Personal Loan",
+        "submenuitems": [
+          {
+            "id": "sbi",
+            "submenuName": "SBI"
+          },
+          {
+            "id": "hdfc",
+            "submenuName": "HDFC"
+          },
+          {
+            "id": "icici",
+            "submenuName": "ICICI"
+          },
+          {
+            "id": "axis-bank",
+            "submenuName": "Axis"
+          },
+          {
+            "id": "kotak-bank",
+            "submenuName": "Kotak"
+          },
+          {
+            "id": "yes-bank",
+            "submenuName": "Yes bank"
+          },
+          {
+            "id": "indusind-bank",
+            "submenuName": "IndusInd"
+          }
+        ]
+      },
+      {
+        "url": "/emi-calculator/",
+        "menuId": "/india/loans/car-loan",
+        "menuName": "Car Loan",
+        "submenuitems": [
+          {
+            "id": "sbi",
+            "submenuName": "SBI"
+          },
+          {
+            "id": "hdfc",
+            "submenuName": "HDFC"
+          },
+          {
+            "id": "icici",
+            "submenuName": "ICICI"
+          },
+          {
+            "id": "axis-bank",
+            "submenuName": "Axis"
+          },
+          {
+            "id": "kotak-bank",
+            "submenuName": "Kotak"
+          },
+          {
+            "id": "yes-bank",
+            "submenuName": "Yes bank"
+          },
+          {
+            "id": "indusind-bank",
+            "submenuName": "IndusInd"
+          }
+        ]
+      },
+      {
+        "url": "/emi-calculator/",
+        "menuId": "/india/loans/credit-card",
+        "menuName": "Credit card",
+        "submenuitems": [
+          {
+            "id": "sbi",
+            "submenuName": "SBI"
+          },
+          {
+            "id": "hdfc",
+            "submenuName": "HDFC"
+          },
+          {
+            "id": "icici",
+            "submenuName": "ICICI"
+          },
+          {
+            "id": "axis-bank",
+            "submenuName": "Axis"
+          },
+          {
+            "id": "kotak-bank",
+            "submenuName": "Kotak"
+          },
+          {
+            "id": "yes-bank",
+            "submenuName": "Yes bank"
+          },
+          {
+            "id": "indusind-bank",
+            "submenuName": "IndusInd"
+          }
+        ]
+      },
+
+      {
+        "url": "/emi-calculator/",
+        "menuId": "/india/loans/student-loan",
+        "menuName": "Student Loan",
+        "submenuitems": [
+          {
+            "id": "sbi",
+            "submenuName": "SBI"
+          },
+          {
+            "id": "hdfc",
+            "submenuName": "HDFC"
+          },
+          {
+            "id": "icici",
+            "submenuName": "ICICI"
+          },
+          {
+            "id": "axis-bank",
+            "submenuName": "Axis"
+          },
+          {
+            "id": "kotak-bank",
+            "submenuName": "Kotak"
+          },
+          {
+            "id": "yes-bank",
+            "submenuName": "Yes bank"
+          },
+          {
+            "id": "indusind-bank",
+            "submenuName": "IndusInd"
+          }
+        ]
+      },
+      {
+        "url": "",
+        "menuId": "/india/loans",
+        "menuName": "Loans+",
+        "submenuitems": [
+          {
+            "id": "business-loan",
+            "submenuName": "Business"
+          },
+          {
+            "id": "preowned-car-loan",
+            "submenuName": "Pre owned car "
+          },
+          {
+            "id": "two-wheeler-loan",
+            "submenuName": "Two wheeler "
+          },
+          {
+            "id": "used-bike-loan",
+            "submenuName": "Used bike"
+          },
+          {
+            "id": "auto-loan",
+            "submenuName": "Auto"
+          },
+          {
+            "id": "education-loan",
+            "submenuName": "Education "
+          },
+          {
+            "id": "used-car-loan",
+            "submenuName": "Used car "
+          }
+        ]
+      }
+    ]
+  }
+}

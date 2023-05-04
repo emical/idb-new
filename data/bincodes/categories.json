@@ -1,0 +1,470 @@
+[
+  {
+    "CategoryName": "BUSINESS CARD",
+    "categoryUrl": "business-card"
+  },
+  {
+    "CategoryName": "ATM ONLY",
+    "categoryUrl": "atm-only"
+  },
+  {
+    "CategoryName": "BUSINESS",
+    "categoryUrl": "business"
+  },
+  {
+    "CategoryName": "CLASSIC",
+    "categoryUrl": "classic"
+  },
+  {
+    "CategoryName": "PREPAID",
+    "categoryUrl": "prepaid"
+  },
+  {
+    "CategoryName": "CONSUMER PREMIUM CARD",
+    "categoryUrl": "consumer-premium-card"
+  },
+  {
+    "CategoryName": "GOLD",
+    "categoryUrl": "gold"
+  },
+  {
+    "CategoryName": "GOLD BUSINESS",
+    "categoryUrl": "gold-business"
+  },
+  {
+    "CategoryName": "PLATINUM",
+    "categoryUrl": "platinum"
+  },
+  {
+    "CategoryName": "STANDARD",
+    "categoryUrl": "standard"
+  },
+  {
+    "CategoryName": "PRESTIGE",
+    "categoryUrl": "prestige"
+  },
+  {
+    "CategoryName": "DORADA",
+    "categoryUrl": "dorada"
+  },
+  {
+    "CategoryName": "PEONY",
+    "categoryUrl": "peony"
+  },
+  {
+    "CategoryName": "GREEN",
+    "categoryUrl": "green"
+  },
+  {
+    "CategoryName": "SMALL CORPORATE",
+    "categoryUrl": "small-corporate"
+  },
+  {
+    "CategoryName": "CASH REBATE",
+    "categoryUrl": "cash-rebate"
+  },
+  {
+    "CategoryName": "SMALL BUSINESS",
+    "categoryUrl": "small-business"
+  },
+  {
+    "CategoryName": "CENTURION",
+    "categoryUrl": "centurion"
+  },
+  {
+    "CategoryName": "OPTIMA",
+    "categoryUrl": "optima"
+  },
+  {
+    "CategoryName": "BLUE FOR BUSINESS",
+    "categoryUrl": "blue-for-business"
+  },
+  {
+    "CategoryName": "CORPORATE",
+    "categoryUrl": "corporate"
+  },
+  {
+    "CategoryName": "BLACK",
+    "categoryUrl": "black"
+  },
+  {
+    "CategoryName": "GIFT",
+    "categoryUrl": "gift"
+  },
+  {
+    "CategoryName": "BLUE CASH",
+    "categoryUrl": "blue-cash"
+  },
+  {
+    "CategoryName": "DELTA",
+    "categoryUrl": "delta"
+  },
+  {
+    "CategoryName": "BLUE AIRMILES CASH BACK CARD",
+    "categoryUrl": "blue-airmiles-cash-back-card"
+  },
+  {
+    "CategoryName": "GOLD CASH BACK CARD",
+    "categoryUrl": "gold-cash-back-card"
+  },
+  {
+    "CategoryName": "PREMIUM PLUS",
+    "categoryUrl": "premium-plus"
+  },
+  {
+    "CategoryName": "BLUE",
+    "categoryUrl": "blue"
+  },
+  {
+    "CategoryName": "BONUS",
+    "categoryUrl": "bonus"
+  },
+  {
+    "CategoryName": "GOLD -and- PLATINUM",
+    "categoryUrl": "gold-and-platinum"
+  },
+  {
+    "CategoryName": "BUSINESS PLATINUM",
+    "categoryUrl": "business-platinum"
+  },
+  {
+    "CategoryName": "CORPORATE PURCHASING",
+    "categoryUrl": "corporate-purchasing"
+  },
+  {
+    "CategoryName": "PLUS",
+    "categoryUrl": "plus"
+  },
+  {
+    "CategoryName": "REVOLVING",
+    "categoryUrl": "revolving"
+  },
+  {
+    "CategoryName": "CORPORATE PURCHASING CARD",
+    "categoryUrl": "corporate-purchasing-card"
+  },
+  {
+    "CategoryName": "CORPORATE GOLD Y PLATINUM",
+    "categoryUrl": "corporate-gold-y-platinum"
+  },
+  {
+    "CategoryName": "CORPORATE GREEN",
+    "categoryUrl": "corporate-green"
+  },
+  {
+    "CategoryName": "BUSINESS GREEN",
+    "categoryUrl": "business-green"
+  },
+  {
+    "CategoryName": "SBS GOLD Y BLUE",
+    "categoryUrl": "sbs-gold-y-blue"
+  },
+  {
+    "CategoryName": "CENTURION SERVICIO",
+    "categoryUrl": "centurion-servicio"
+  },
+  {
+    "CategoryName": "CORPORATE GOLD",
+    "categoryUrl": "corporate-gold"
+  },
+  {
+    "CategoryName": "CHARGE CARD",
+    "categoryUrl": "charge-card"
+  },
+  {
+    "CategoryName": "GOLD GRCC YBLUE",
+    "categoryUrl": "gold-grcc-yblue"
+  },
+  {
+    "CategoryName": "CORPORATE REVOLVING",
+    "categoryUrl": "corporate-revolving"
+  },
+  {
+    "CategoryName": "BLUE -and- REVOLVING",
+    "categoryUrl": "blue-revolving"
+  },
+  {
+    "CategoryName": "AIRMILES PREMIER",
+    "categoryUrl": "airmiles-premier"
+  },
+  {
+    "CategoryName": "BMI PLUS",
+    "categoryUrl": "bmi-plus"
+  },
+  {
+    "CategoryName": "PREMIUM",
+    "categoryUrl": "premium"
+  },
+  {
+    "CategoryName": "CORPORATE T-and-E",
+    "categoryUrl": "corporate-t-e"
+  },
+  {
+    "CategoryName": "PREMIER",
+    "categoryUrl": "premier"
+  },
+  {
+    "CategoryName": "ELECTRON",
+    "categoryUrl": "electron"
+  },
+  {
+    "CategoryName": "INFINITE",
+    "categoryUrl": "infinite"
+  },
+  {
+    "CategoryName": "SIGNATURE",
+    "categoryUrl": "signature"
+  },
+  {
+    "CategoryName": "GOLD PREMIUM",
+    "categoryUrl": "gold-premium"
+  },
+  {
+    "CategoryName": "PURCHASING",
+    "categoryUrl": "purchasing"
+  },
+  {
+    "CategoryName": "PRIVATE LABEL",
+    "categoryUrl": "private-label"
+  },
+  {
+    "CategoryName": "TRAVEL MONEY",
+    "categoryUrl": "travel-money"
+  },
+  {
+    "CategoryName": "PROPRIETARY",
+    "categoryUrl": "proprietary"
+  },
+  {
+    "CategoryName": "CORPORATE T",
+    "categoryUrl": "corporate-t"
+  },
+  {
+    "CategoryName": "GSA CARD",
+    "categoryUrl": "gsa-card"
+  },
+  {
+    "CategoryName": "GOLD/PREM",
+    "categoryUrl": "gold-or-prem"
+  },
+  {
+    "CategoryName": "VISA CASH",
+    "categoryUrl": "visa-cash"
+  },
+  {
+    "CategoryName": "REBATE",
+    "categoryUrl": "rebate"
+  },
+  {
+    "CategoryName": "DEBIT",
+    "categoryUrl": "debit"
+  },
+  {
+    "CategoryName": "SALUTE",
+    "categoryUrl": "salute"
+  },
+  {
+    "CategoryName": "CHECK CARD",
+    "categoryUrl": "check-card"
+  },
+  {
+    "CategoryName": "SIGNATURE BUSINESS",
+    "categoryUrl": "signature-business"
+  },
+  {
+    "CategoryName": "AARP",
+    "categoryUrl": "aarp"
+  },
+  {
+    "CategoryName": "V PAY",
+    "categoryUrl": "v-pay"
+  },
+  {
+    "CategoryName": "PROPRIETARY ATM",
+    "categoryUrl": "proprietary-atm"
+  },
+  {
+    "CategoryName": "PREPAID - CLASSIC",
+    "categoryUrl": "prepaid-classic"
+  },
+  {
+    "CategoryName": "PRIVATE",
+    "categoryUrl": "private"
+  },
+  {
+    "CategoryName": "PREPAID - ELECTRON",
+    "categoryUrl": "prepaid-electron"
+  },
+  {
+    "CategoryName": "PREPAID - PLATINUM",
+    "categoryUrl": "prepaid-platinum"
+  },
+  {
+    "CategoryName": "PREPAID - CORPORATE T-and-E",
+    "categoryUrl": "prepaid-corporate-t-and-e"
+  },
+  {
+    "CategoryName": "PREPAID TRAVEL MONEY",
+    "categoryUrl": "prepaid-travel-money"
+  },
+  {
+    "CategoryName": "PREPAID CASH",
+    "categoryUrl": "prepaid-cash"
+  },
+  {
+    "CategoryName": "VISA COMMERCE",
+    "categoryUrl": "visa-commerce"
+  },
+  {
+    "CategoryName": "OUROCARD",
+    "categoryUrl": "ourocard"
+  },
+  {
+    "CategoryName": "ATM CARD",
+    "categoryUrl": "atm-card"
+  },
+  {
+    "CategoryName": "SEARS",
+    "categoryUrl": "sears"
+  },
+  {
+    "CategoryName": "NEW WORLD",
+    "categoryUrl": "new-world"
+  },
+  {
+    "CategoryName": "ELECTRONIC",
+    "categoryUrl": "electronic"
+  },
+  {
+    "CategoryName": "OTHER",
+    "categoryUrl": "other"
+  },
+  {
+    "CategoryName": "ELECTRIC ORANGE",
+    "categoryUrl": "electric-orange"
+  },
+  {
+    "CategoryName": "PREPAID - BUSINESS",
+    "categoryUrl": "prepaid-business"
+  },
+  {
+    "CategoryName": "WORLD CARD",
+    "categoryUrl": "world-card"
+  },
+  {
+    "CategoryName": "CREDIT",
+    "categoryUrl": "credit"
+  },
+  {
+    "CategoryName": "EXECUTIVE BUSINESS",
+    "categoryUrl": "executive-business"
+  },
+  {
+    "CategoryName": "HSA NON-SUBSTANTIATED",
+    "categoryUrl": "hsa-non-substantiated"
+  },
+  {
+    "CategoryName": "QUANTUM",
+    "categoryUrl": "quantum"
+  },
+  {
+    "CategoryName": "WORLD ELITE",
+    "categoryUrl": "world-elite"
+  },
+  {
+    "CategoryName": "GLOBAL PAYMENT",
+    "categoryUrl": "global-payment"
+  },
+  {
+    "CategoryName": "WORLD DEBIT EMBOSSED",
+    "categoryUrl": "world-debit-embossed"
+  },
+  {
+    "CategoryName": "VIRTUAL",
+    "categoryUrl": "virtual"
+  },
+  {
+    "CategoryName": "GM CARD",
+    "categoryUrl": "gm-card"
+  },
+  {
+    "CategoryName": "PAYPASS",
+    "categoryUrl": "paypass"
+  },
+  {
+    "CategoryName": "MASTERMONEY",
+    "categoryUrl": "mastermoney"
+  },
+  {
+    "CategoryName": "WORLD FOR BUSINESS",
+    "categoryUrl": "world-for-business"
+  },
+  {
+    "CategoryName": "DIREKT",
+    "categoryUrl": "direkt"
+  },
+  {
+    "CategoryName": "CORPORATE FLEET CARD",
+    "categoryUrl": "corporate-fleet-card"
+  },
+  {
+    "CategoryName": "GOVERNMENT COMMERCIAL CARD",
+    "categoryUrl": "government-commercial-card"
+  },
+  {
+    "CategoryName": "BUSINESS ELITE",
+    "categoryUrl": "business-elite"
+  },
+  {
+    "CategoryName": "REWARDS CARD",
+    "categoryUrl": "rewards-card"
+  },
+  {
+    "CategoryName": "CONSUMER CARD",
+    "categoryUrl": "consumer-card"
+  },
+  {
+    "CategoryName": "CORE CARD",
+    "categoryUrl": "core-card"
+  },
+  {
+    "CategoryName": "PREMIUM CARD",
+    "categoryUrl": "premium-card"
+  },
+  {
+    "CategoryName": "IKEA CARD",
+    "categoryUrl": "ikea-card"
+  },
+  {
+    "CategoryName": "LOWES CARD",
+    "categoryUrl": "lowes-card"
+  },
+  {
+    "CategoryName": "PEONY MONEY lanK",
+    "categoryUrl": "peony-money-lank"
+  },
+  {
+    "CategoryName": "PEONY QUASI-CREDIT CARD",
+    "categoryUrl": "peony-quasi-credit-card"
+  },
+  {
+    "CategoryName": "ICARD",
+    "categoryUrl": "icard"
+  },
+  {
+    "CategoryName": "MAESTRO PREPAID OTHER CARD",
+    "categoryUrl": "maestro-prepaid-other-card"
+  },
+  {
+    "CategoryName": "PAYMENT CARD",
+    "categoryUrl": "payment-card"
+  },
+  {
+    "CategoryName": "WOOLWORTHS",
+    "categoryUrl": "woolworths"
+  },
+  {
+    "CategoryName": "DANKORT",
+    "categoryUrl": "dankort"
+  }
+]

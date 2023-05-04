@@ -1,0 +1,18 @@
+[
+  {
+    "Cardtype": "DEBIT",
+    "cardtypeUrl": "debit-card"
+  },
+  {
+    "Cardtype": "CREDIT",
+    "cardtypeUrl": "credit-card"
+  },
+  {
+    "Cardtype": "CHARGE CARD",
+    "cardtypeUrl": "charge-card"
+  },
+  {
+    "Cardtype": "PREPAID",
+    "cardtypeUrl": "prepaid-card"
+  }
+]

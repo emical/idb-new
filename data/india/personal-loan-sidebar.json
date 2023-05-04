@@ -1,0 +1,136 @@
+{
+  "topBanks": [
+    {
+      "name": "SBI",
+      "url": "sbi"
+    },
+    {
+      "name": "ICICI",
+      "url": "icici"
+    },
+    {
+      "name": "HDFC",
+      "url": "hdfc"
+    },
+    {
+      "name": "Axis",
+      "url": "axis"
+    },
+    {
+      "name": "CITI",
+      "url": "citi"
+    }
+  ],
+  "topNBFCs": [
+    {
+      "name": "SBI",
+      "url": "sbi"
+    },
+    {
+      "name": "ICICI",
+      "url": "icici"
+    },
+    {
+      "name": "HDFC",
+      "url": "hdfc"
+    },
+    {
+      "name": "Axis",
+      "url": "axis"
+    },
+    {
+      "name": "CITI",
+      "url": "citi"
+    }
+  ],
+  "interestRatesBank": [
+    {
+      "name": "SBI",
+      "url": "sbi"
+    },
+    {
+      "name": "ICICI",
+      "url": "icici"
+    },
+    {
+      "name": "HDFC",
+      "url": "hdfc"
+    },
+    {
+      "name": "Axis",
+      "url": "axis"
+    },
+    {
+      "name": "CITI",
+      "url": "citi"
+    }
+  ],
+  "eligibilityBank": [
+    {
+      "name": "SBI",
+      "url": "sbi"
+    },
+    {
+      "name": "ICICI",
+      "url": "icici"
+    },
+    {
+      "name": "HDFC",
+      "url": "hdfc"
+    },
+    {
+      "name": "Axis",
+      "url": "axis"
+    },
+    {
+      "name": "CITI",
+      "url": "citi"
+    }
+  ],
+  "states": [
+    {
+      "name": "Delhi",
+      "url": "delhi"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "url": "uttar-pradesh"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "url": "madhya-pradesh"
+    },
+    {
+      "name": "Tamilnadu",
+      "url": "tamilnadu"
+    },
+    {
+      "name": "Kerala",
+      "url": "kerala"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Delhi",
+      "url": "delhi"
+    },
+    {
+      "name": "Bangalore",
+      "url": "bangalore"
+    },
+    {
+      "name": "Hyderabad",
+      "url": "hyderabad"
+    },
+    {
+      "name": "Mumbai",
+      "url": "mumbai"
+    },
+    {
+      "name": "Chennai",
+      "url": "chennai"
+    }
+  ],
+  "otherLoans": [],
+  "topBlogs": []
+}

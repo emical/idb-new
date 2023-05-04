@@ -1,0 +1,20 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/dream-meaning-search-mobile/1/",
+      "has": [
+        {
+          "type": "header",
+          "key": "User-Agent",
+          "value": "Mobile"
+        }
+      ],
+      "destination": "/dream-interpretation-search-mobile/1/",
+      "statusCode": 301
+    },
+    {"source": "/dream-meaning-search/1/", "destination": "/dream-interpretation-search/1/", "statusCode": 301},
+    {"source": "/dream-meaning-search/1", "destination": "/dream-interpretation-search/1", "statusCode": 301},
+    {"source": "/dream-meaning-search/:slug", "destination": "/dream-interpretation-search/:slug", "statusCode": 301}
+  ]
+}

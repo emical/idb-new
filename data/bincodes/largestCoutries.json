@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "Alpha2": "AE",
+    "Alpha3": "ARE",
+    "CountryName": "United Arab Emirates",
+    "CountryUrl": "united-arab-emirates"
+  },
+  {
+    "id": 2,
+    "Alpha2": "AR",
+    "Alpha3": "ARG",
+    "CountryName": "Argentina",
+    "CountryUrl": "argentina"
+  },
+  {
+    "id": 3,
+    "Alpha2": "AT",
+    "Alpha3": "AUT",
+    "CountryName": "Austria",
+    "CountryUrl": "austria"
+  },
+  {
+    "id": 4,
+    "Alpha2": "AU",
+    "Alpha3": "AUS",
+    "CountryName": "Australia",
+    "CountryUrl": "australia"
+  },
+  {
+    "id": 5,
+    "Alpha2": "BD",
+    "Alpha3": "BGD",
+    "CountryName": "Bangladesh",
+    "CountryUrl": "bangladesh"
+  },
+  {
+    "id": 6,
+    "Alpha2": "BE",
+    "Alpha3": "BEL",
+    "CountryName": "Belgium",
+    "CountryUrl": "belgium"
+  },
+  {
+    "id": 7,
+    "Alpha2": "BR",
+    "Alpha3": "BRA",
+    "CountryName": "Brazil",
+    "CountryUrl": "brazil"
+  },
+  {
+    "id": 8,
+    "Alpha2": "BT",
+    "Alpha3": "BTN",
+    "CountryName": "Bhutan",
+    "CountryUrl": "bhutan"
+  },
+  {
+    "id": 9,
+    "Alpha2": "CA",
+    "Alpha3": "CAN",
+    "CountryName": "Canada",
+    "CountryUrl": "canada"
+  },
+  {
+    "id": 10,
+    "Alpha2": "CH",
+    "Alpha3": "CHE",
+    "CountryName": "Switzerland",
+    "CountryUrl": "switzerland"
+  },
+  {
+    "id": 11,
+    "Alpha2": "CN",
+    "Alpha3": "CHN",
+    "CountryName": "China",
+    "CountryUrl": "china"
+  },
+  {
+    "id": 12,
+    "Alpha2": "DE",
+    "Alpha3": "DEU",
+    "CountryName": "Germany",
+    "CountryUrl": "germany"
+  },
+  {
+    "id": 13,
+    "Alpha2": "DK",
+    "Alpha3": "DNK",
+    "CountryName": "Denmark",
+    "CountryUrl": "denmark"
+  },
+  {
+    "id": 14,
+    "Alpha2": "EG",
+    "Alpha3": "EGY",
+    "CountryName": "Egypt",
+    "CountryUrl": "egypt"
+  },
+  {
+    "id": 15,
+    "Alpha2": "ES",
+    "Alpha3": "ESP",
+    "CountryName": "Spain",
+    "CountryUrl": "spain"
+  },
+  {
+    "id": 16,
+    "Alpha2": "FR",
+    "Alpha3": "FRA",
+    "CountryName": "France",
+    "CountryUrl": "france"
+  },
+  {
+    "id": 17,
+    "Alpha2": "GB",
+    "Alpha3": "GBR",
+    "CountryName": "United Kingdom",
+    "CountryUrl": "united-kingdom"
+  },
+  {
+    "id": 18,
+    "Alpha2": "GE",
+    "Alpha3": "GEO",
+    "CountryName": "Georgia",
+    "CountryUrl": "georgia"
+  },
+  {
+    "id": 19,
+    "Alpha2": "GR",
+    "Alpha3": "GRC",
+    "CountryName": "Greece",
+    "CountryUrl": "greece"
+  },
+  {
+    "id": 20,
+    "Alpha2": "HK",
+    "Alpha3": "HKG",
+    "CountryName": "Hong Kong",
+    "CountryUrl": "hong-kong"
+  },
+  {
+    "id": 21,
+    "Alpha2": "ID",
+    "Alpha3": "IDN",
+    "CountryName": "Indonesia",
+    "CountryUrl": "indonesia"
+  },
+  {
+    "id": 22,
+    "Alpha2": "IN",
+    "Alpha3": "IND",
+    "CountryName": "India",
+    "CountryUrl": "india"
+  },
+  {
+    "id": 23,
+    "Alpha2": "IR",
+    "Alpha3": "IRN",
+    "CountryName": "IRAN",
+    "CountryUrl": "iran"
+  },
+  {
+    "id": 24,
+    "Alpha2": "IT",
+    "Alpha3": "ITA",
+    "CountryName": "Italy",
+    "CountryUrl": "italy"
+  },
+  {
+    "id": 25,
+    "Alpha2": "JP",
+    "Alpha3": "JPN",
+    "CountryName": "Japan",
+    "CountryUrl": "japan"
+  },
+  {
+    "id": 26,
+    "Alpha2": "KE",
+    "Alpha3": "KEN",
+    "CountryName": "Kenya",
+    "CountryUrl": "kenya"
+  },
+  {
+    "id": 27,
+    "Alpha2": "KP",
+    "Alpha3": "PRK",
+    "CountryName": "NORTH KOREA",
+    "CountryUrl": "north-korea"
+  },
+  {
+    "id": 28,
+    "Alpha2": "KR",
+    "Alpha3": "KOR",
+    "CountryName": "SOUTH KOREA",
+    "CountryUrl": "south-korea"
+  },
+  {
+    "id": 29,
+    "Alpha2": "KW",
+    "Alpha3": "KWT",
+    "CountryName": "Kuwait",
+    "CountryUrl": "kuwait"
+  },
+  {
+    "id": 30,
+    "Alpha2": "MA",
+    "Alpha3": "MAR",
+    "CountryName": "Morocco",
+    "CountryUrl": "morocco"
+  },
+  {
+    "id": 31,
+    "Alpha2": "MV",
+    "Alpha3": "MDV",
+    "CountryName": "Maldives",
+    "CountryUrl": "maldives"
+  },
+  {
+    "id": 32,
+    "Alpha2": "MX",
+    "Alpha3": "MEX",
+    "CountryName": "Mexico",
+    "CountryUrl": "mexico"
+  },
+  {
+    "id": 33,
+    "Alpha2": "MY",
+    "Alpha3": "MYS",
+    "CountryName": "Malaysia",
+    "CountryUrl": "malaysia"
+  },
+  {
+    "id": 34,
+    "Alpha2": "NG",
+    "Alpha3": "NGA",
+    "CountryName": "Nigeria",
+    "CountryUrl": "nigeria"
+  },
+  {
+    "id": 35,
+    "Alpha2": "NL",
+    "Alpha3": "NLD",
+    "CountryName": "Netherlands",
+    "CountryUrl": "netherlands"
+  },
+  {
+    "id": 36,
+    "Alpha2": "NO",
+    "Alpha3": "NOR",
+    "CountryName": "Norway",
+    "CountryUrl": "norway"
+  },
+  {
+    "id": 37,
+    "Alpha2": "NP",
+    "Alpha3": "NPL",
+    "CountryName": "Nepal",
+    "CountryUrl": "nepal"
+  },
+  {
+    "id": 38,
+    "Alpha2": "NZ",
+    "Alpha3": "NZL",
+    "CountryName": "New Zealand",
+    "CountryUrl": "new-zealand"
+  },
+  {
+    "id": 39,
+    "Alpha2": "OM",
+    "Alpha3": "OMN",
+    "CountryName": "Oman",
+    "CountryUrl": "oman"
+  },
+  {
+    "id": 40,
+    "Alpha2": "PH",
+    "Alpha3": "PHL",
+    "CountryName": "Philippines",
+    "CountryUrl": "philippines"
+  },
+  {
+    "id": 41,
+    "Alpha2": "PK",
+    "Alpha3": "PAK",
+    "CountryName": "Pakistan",
+    "CountryUrl": "pakistan"
+  },
+  {
+    "id": 42,
+    "Alpha2": "PL",
+    "Alpha3": "POL",
+    "CountryName": "Poland",
+    "CountryUrl": "poland"
+  },
+  {
+    "id": 43,
+    "Alpha2": "PT",
+    "Alpha3": "PRT",
+    "CountryName": "Portugal",
+    "CountryUrl": "portugal"
+  },
+  {
+    "id": 44,
+    "Alpha2": "QA",
+    "Alpha3": "QAT",
+    "CountryName": "Qatar",
+    "CountryUrl": "qatar"
+  },
+  {
+    "id": 45,
+    "Alpha2": "RO",
+    "Alpha3": "ROU",
+    "CountryName": "Romania",
+    "CountryUrl": "romania"
+  },
+  {
+    "id": 46,
+    "Alpha2": "RU",
+    "Alpha3": "RUS",
+    "CountryName": "RUSSIA",
+    "CountryUrl": "russia"
+  },
+  {
+    "id": 47,
+    "Alpha2": "SA",
+    "Alpha3": "SAU",
+    "CountryName": "Saudi Arabia",
+    "CountryUrl": "saudi-arabia"
+  },
+  {
+    "id": 48,
+    "Alpha2": "SE",
+    "Alpha3": "SWE",
+    "CountryName": "Sweden",
+    "CountryUrl": "sweden"
+  },
+  {
+    "id": 49,
+    "Alpha2": "TH",
+    "Alpha3": "THA",
+    "CountryName": "Thailand",
+    "CountryUrl": "thailand"
+  },
+  {
+    "id": 50,
+    "Alpha2": "TR",
+    "Alpha3": "TUR",
+    "CountryName": "Turkey",
+    "CountryUrl": "turkey"
+  },
+  {
+    "id": 51,
+    "Alpha2": "TW",
+    "Alpha3": "TWN",
+    "CountryName": "Taiwan",
+    "CountryUrl": "taiwan"
+  },
+  {
+    "id": 52,
+    "Alpha2": "TZ",
+    "Alpha3": "TZA",
+    "CountryName": "TANZANIA",
+    "CountryUrl": "tanzania"
+  },
+  {
+    "id": 53,
+    "Alpha2": "UA",
+    "Alpha3": "UKR",
+    "CountryName": "Ukraine",
+    "CountryUrl": "ukraine"
+  },
+  {
+    "id": 54,
+    "Alpha2": "US",
+    "Alpha3": "USA",
+    "CountryName": "United States",
+    "CountryUrl": "united-states"
+  },
+  {
+    "id": 55,
+    "Alpha2": "VN",
+    "Alpha3": "VNM",
+    "CountryName": "Vietnam",
+    "CountryUrl": "vietnam"
+  },
+  {
+    "id": 56,
+    "Alpha2": "ZA",
+    "Alpha3": "ZAF",
+    "CountryName": "South Africa",
+    "CountryUrl": "south-africa"
+  },
+  {
+    "id": 57,
+    "Alpha2": "ZW",
+    "Alpha3": "ZWE",
+    "CountryName": "Zimbabwe",
+    "CountryUrl": "zimbabwe"
+  }
+]

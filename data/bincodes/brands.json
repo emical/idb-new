@@ -1,0 +1,106 @@
+[
+  {
+    "BrandName": "PRIVATE LABEL",
+    "brandurl": "private-label"
+  },
+  {
+    "BrandName": "VISA",
+    "brandurl": "visa"
+  },
+  {
+    "BrandName": "JCB",
+    "brandurl": "jcb"
+  },
+  {
+    "BrandName": "ENROUTE",
+    "brandurl": "enroute"
+  },
+  {
+    "BrandName": "DISCOVER",
+    "brandurl": "discover"
+  },
+  {
+    "BrandName": "AMERICAN EXPRESS",
+    "brandurl": "american-express"
+  },
+  {
+    "BrandName": "DINERS CLUB",
+    "brandurl": "diners-club"
+  },
+  {
+    "BrandName": "ATM",
+    "brandurl": "atm"
+  },
+  {
+    "BrandName": "MAESTRO",
+    "brandurl": "maestro"
+  },
+  {
+    "BrandName": "DANKORT",
+    "brandurl": "dankort"
+  },
+  {
+    "BrandName": "ELO",
+    "brandurl": "elo"
+  },
+  {
+    "BrandName": "MASTERCARD",
+    "brandurl": "mastercard"
+  },
+  {
+    "BrandName": "BANKCARD",
+    "brandurl": "bankcard"
+  },
+  {
+    "BrandName": "UNIONPAY",
+    "brandurl": "unionpay"
+  },
+  {
+    "BrandName": "CHINA UNION PAY",
+    "brandurl": "china-union-pay"
+  },
+  {
+    "BrandName": "LASER",
+    "brandurl": "laser"
+  },
+  {
+    "BrandName": "GE CAPITAL",
+    "brandurl": "ge-capital"
+  },
+  {
+    "BrandName": "PPT",
+    "brandurl": "ppt"
+  },
+  {
+    "BrandName": "SOLO",
+    "brandurl": "solo"
+  },
+  {
+    "BrandName": "PLATIMA",
+    "brandurl": "platima"
+  },
+  {
+    "BrandName": "UK FUEL CARD",
+    "brandurl": "uk-fuel-card"
+  },
+  {
+    "BrandName": "CHJONES FUEL CARD",
+    "brandurl": "chjones-fuel-card"
+  },
+  {
+    "BrandName": "RED FUEL CARD",
+    "brandurl": "red-fuel-card"
+  },
+  {
+    "BrandName": "LOYALTY CARD",
+    "brandurl": "loyalty-card"
+  },
+  {
+    "BrandName": "PHH FUEL CARD",
+    "brandurl": "phh-fuel-card"
+  },
+  {
+    "BrandName": "RBS GIFT CARD",
+    "brandurl": "rbs-gift-card"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "allahabad-bank",
+    "bankName": "Allahabad Bank"
+  },
+  {
+    "id": "andhra-bank",
+    "bankName": "Andhra Bank"
+  },
+  {
+    "id": "au-small-finance",
+    "bankName": "Au Small Finance Bank"
+  },
+  {
+    "id": "axis-bank",
+    "bankName": "Axis Home"
+  },
+  {
+    "id": "bandhan-bank",
+    "bankName": "Bandhan Bank"
+  },
+  {
+    "id": "bank-of-baroda",
+    "bankName": "Bank of baroda"
+  },
+  {
+    "id": "bank-of-maharasthra",
+    "bankName": "Bank of Maharasthra"
+  },
+  {
+    "id": "bmb",
+    "bankName": "Bharatiya Mahila Bank ( BMB)"
+  },
+  {
+    "id": "boi",
+    "bankName": "BOI- Bank of India"
+  },
+  {
+    "id": "canara-bank",
+    "bankName": "Canara Bank"
+  },
+  {
+    "id": "capital-small-finance",
+    "bankName": "Capital Small Finance Bank"
+  },
+  {
+    "id": "catholic-syrian",
+    "bankName": "Catholic Syrian Bank"
+  },
+  {
+    "id": "central-bank",
+    "bankName": "Central Bank"
+  },
+  {
+    "id": "citi-bank",
+    "bankName": "Citi Bank"
+  },
+  {
+    "id": "city-union",
+    "bankName": "City Union Bank"
+  },
+  {
+    "id": "corporation-bank",
+    "bankName": "Corporation Bank"
+  },
+  {
+    "id": "dbs-bank",
+    "bankName": "DBS Bank"
+  },
+  {
+    "id": "dcb-bank",
+    "bankName": "DCB Bank"
+  },
+  {
+    "id": "dena-bank",
+    "bankName": "Dena Bank"
+  },
+  {
+    "id": "dhanlaxmi-bank",
+    "bankName": "Dhanlaxmi Bank"
+  },
+  {
+    "id": "equitas-small-finance",
+    "bankName": "Equitas Small Finance Bank"
+  },
+  {
+    "id": "esaf-small-finance",
+    "bankName": "Esaf Small Finance Bank"
+  },
+  {
+    "id": "federal-bank",
+    "bankName": "Federal Bank"
+  },
+  {
+    "id": "fincare-small-finance",
+    "bankName": "Fincare Small Finance Bank"
+  },
+  {
+    "id": "hdfc",
+    "bankName": "HDFC Bank"
+  },
+  {
+    "id": "hsbc-bank",
+    "bankName": "HSBC Bank"
+  },
+  {
+    "id": "icici",
+    "bankName": "ICICI"
+  },
+  {
+    "id": "idbi-bank",
+    "bankName": "IDBI Bank"
+  },
+  {
+    "id": "idfc-bank",
+    "bankName": "IDFC Bank"
+  },
+  {
+    "id": "indian-bank",
+    "bankName": "Indian Bank"
+  },
+  {
+    "id": "indian-overseas",
+    "bankName": "Indian Overseas Bank"
+  },
+  {
+    "id": "indusind-bank",
+    "bankName": "IndusInd Bank"
+  },
+  {
+    "id": "ing-vysya-bank",
+    "bankName": "ING Vysya Bank"
+  },
+  {
+    "id": "jammu-and-kashmir-bank",
+    "bankName": "Jammu And Kashmir Bank"
+  },
+  {
+    "id": "karnataka-bank",
+    "bankName": "Karnataka Bank"
+  },
+  {
+    "id": "karur-vysya-bank",
+    "bankName": "Karur Vysya Bank"
+  },
+  {
+    "id": "kotak-bank",
+    "bankName": "Kotak Bank"
+  },
+  {
+    "id": "laxmi-vilas",
+    "bankName": "Laxmi Vilas Bank"
+  },
+  {
+    "id": "north-east-small-finance",
+    "bankName": "North East Small Finance Bank"
+  },
+  {
+    "id": "oriental-bank",
+    "bankName": "Oriental Bank"
+  },
+  {
+    "id": "punjab-and-sind",
+    "bankName": "Punjab And Sind Bank"
+  },
+  {
+    "id": "pnb-bank",
+    "bankName": "Punjab National Bank"
+  },
+  {
+    "id": "rbl-bank",
+    "bankName": "RBL Bank"
+  },
+  {
+    "id": "sbi",
+    "bankName": "SBI"
+  },
+  {
+    "id": "south-india-bank",
+    "bankName": "South India Bank"
+  },
+  {
+    "id": "standard-chartered",
+    "bankName": "Standard Chartered"
+  },
+  {
+    "id": "sbbj",
+    "bankName": "State Bank Of Bikaner And Jaipur"
+  },
+  {
+    "id": "sbh",
+    "bankName": "State Bank Of Hyderabad"
+  },
+  {
+    "id": "sbm",
+    "bankName": "State Bank Of Mysore"
+  },
+  {
+    "id": "sbp",
+    "bankName": "State Bank Of Patiala"
+  },
+  {
+    "id": "sbt",
+    "bankName": "State Bank Of Travancore"
+  },
+  {
+    "id": "suryoday-small-finance",
+    "bankName": "Suryoday Small Finance Bank"
+  },
+  {
+    "id": "syndicate-bank",
+    "bankName": "Syndicate Bank"
+  },
+  {
+    "id": "tamilnad-mercantile-bank",
+    "bankName": "Tamilnad Mercantile Bank"
+  },
+  {
+    "id": "uco-bank",
+    "bankName": "Uco Bank"
+  },
+  {
+    "id": "union-bank",
+    "bankName": "Union Bank"
+  },
+  {
+    "id": "vijaya-bank",
+    "bankName": "Vijaya Banjk"
+  },
+  {
+    "id": "yes-bank",
+    "bankName": "Yes Bank"
+  },
+  {
+    "id": "aditya-birla-finance",
+    "bankName": "Aditya Birla Finance"
+  },
+  {
+    "id": "bajaj-finance",
+    "bankName": "Bajaj Finance"
+  },
+  {
+    "id": "capital-first",
+    "bankName": "Capital First"
+  },
+  {
+    "id": "cholamandalam",
+    "bankName": "Cholamandalam"
+  },
+  {
+    "id": "clix-capital-loans",
+    "bankName": "Clix Capital"
+  },
+  {
+    "id": "credila-finance",
+    "bankName": "Credila Finance"
+  },
+  {
+    "id": "dhani-loans",
+    "bankName": "Dhani Loans"
+  },
+  {
+    "id": "dhfl-loans",
+    "bankName": "DHFL Loans"
+  },
+  {
+    "id": "edelwesis-finance",
+    "bankName": "Edelweiss Finance"
+  },
+  {
+    "id": "fullerton-india-loans",
+    "bankName": "Fullerton India"
+  },
+  {
+    "id": "hdb-financial-loans",
+    "bankName": "HDB Financial Services"
+  },
+  {
+    "id": "hero-fincorp-loans",
+    "bankName": "Hero Fincorp"
+  },
+  {
+    "id": "hinduja-finance",
+    "bankName": "Hinduja Finance"
+  },
+  {
+    "id": "iifl-loans",
+    "bankName": "IIFL Loans"
+  },
+  {
+    "id": "india-bulls",
+    "bankName": "India Bulls"
+  },
+  {
+    "id": "india-first",
+    "bankName": "India First"
+  },
+  {
+    "id": "indifi-loans",
+    "bankName": "Indifi"
+  },
+  {
+    "id": "ivl-finance-loans",
+    "bankName": "IVL Finance Ltd"
+  },
+  {
+    "id": "landt-finance",
+    "bankName": "L & T Finance"
+  },
+  {
+    "id": "lendingkart-loans",
+    "bankName": "Lendingkart"
+  },
+  {
+    "id": "lic-loans",
+    "bankName": "LIC Loans"
+  },
+  {
+    "id": "magma-fincorp",
+    "bankName": "Magma Fincorp"
+  },
+  {
+    "id": "mahindra-finance",
+    "bankName": "Mahindra Finance"
+  },
+  {
+    "id": "manappuram-loans",
+    "bankName": "Manappuram"
+  },
+  {
+    "id": "muthoot-finance",
+    "bankName": "Muthoot Finance"
+  },
+  {
+    "id": "reliance-capital",
+    "bankName": "Reliance Capital"
+  },
+  {
+    "id": "sundaram-finance",
+    "bankName": "Sundaram Finance"
+  },
+  {
+    "id": "tata-capital",
+    "bankName": "Tata Capital"
+  },
+  {
+    "id": "tata-finance",
+    "bankName": "Tata Finance"
+  },
+  {
+    "id": "wishfin-loans",
+    "bankName": "Wishfin loans"
+  }
+]

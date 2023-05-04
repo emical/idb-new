@@ -1,0 +1,117 @@
+{
+  "name": "islamicdreambook.com",
+  "description": "EMI Calculator - home loan, car loan, personal loan , student loan in India",
+  "version": "2.2.0",
+  "author": {
+    "name": "EMI Calculators",
+    "email": "me@islamicdreambook.com",
+    "url": "https://islamicdreambook.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eckertalex/eckertalex.dev.git"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "NODE_ENV=production node ./server.js",
+    "analyze": "ANALYZE=true npm run build",
+    "check-types": "tsc",
+    "lint": "eslint --ignore-path .gitignore --ext .js,.jsx,.ts,.tsx --fix .",
+    "lint:css": "stylelint styles/**/*.css",
+    "prettier": "prettier --ignore-path .gitignore \"**/*.+(js|jsx|json|ts|tsx)\"",
+    "format": "npm run prettier -- --write",
+    "check-format": "npm run prettier -- --list-different",
+    "validate": "npm-run-all --parallel check-types check-format lint:css lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@mdx-js/react": "^1.6.22",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/lab": "^5.0.0-alpha.63",
+    "@mui/material": "^5.2.7",
+    "@mui/styles": "^5.2.3",
+    "@mui/x-data-grid": "^5.2.2",
+    "bootstrap": "^5.0.0",
+    "disqus-react": "^1.1.3",
+    "next": "^10.0.3",
+    "next-mdx-enhanced": "^5.0.0",
+    "next-seo": "^4.17.0",
+    "nprogress": "^0.2.0",
+    "prism-react-renderer": "^1.1.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-responsive-modal": "^6.2.0",
+    "reading-time": "^1.2.1",
+    "remark-autolink-headings": "^6.0.1",
+    "remark-slug": "^6.0.0",
+    "sass": "^1.32.12",
+    "serverless-mysql": "^1.5.4",
+    "sharp": "^0.27.0",
+    "styled-components": "^5.3.3",
+    "swr": "^1.1.2-beta.0",
+    "tinytime": "^0.2.6",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^10.0.3",
+    "@types/classnames": "^2.2.11",
+    "@types/node": "^14.14.13",
+    "@types/nprogress": "^0.2.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-helmet": "^6.1.0",
+    "@typescript-eslint/eslint-plugin": "^4.9.1",
+    "@typescript-eslint/parser": "^4.9.1",
+    "@zeit/next-source-maps": "0.0.3",
+    "autoprefixer": "^10.1.0",
+    "babel-plugin-import-glob-array": "^0.2.0",
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.2.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "feed": "^4.2.1",
+    "globby": "^11.0.1",
+    "gray-matter": "^4.0.2",
+    "husky": "^4.3.5",
+    "lint-staged": "^10.5.3",
+    "next-compose-plugins": "^2.2.1",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^13.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.2.1",
+    "pretty-quick": "^3.1.0",
+    "stylelint": "^13.8.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "tailwindcss": "^1.9.6",
+    "tailwindcss-dark-mode": "^1.1.7",
+    "typescript": "^4.1.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run check-types && pretty-quick --staged && lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.+(js|jsx|ts|tsx)": [
+      "eslint --fix"
+    ]
+  },
+  "resolutions": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0"
+  }
+}
