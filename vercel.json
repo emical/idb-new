@@ -1,6 +1,7 @@
 {
   "trailingSlash": true,
   "redirects": [
+    {"source": "static/arif-interpretator-islamic-dream-book-2.webp", "destination": "static/islamic-dream-book-interpretation-service-dream.webp", "statusCode": 301},
     {
       "source": "/dream-meaning-search/1/",
       "has": [
